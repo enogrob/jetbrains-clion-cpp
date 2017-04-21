@@ -3,9 +3,9 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Tutorial Clion Cpp
+# JetBrains Clion Cpp
 
-![tutorial image](images/tutorial.png)
+![tutorial image](images/jetbrains.png)
 
 **About**
 
